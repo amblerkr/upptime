@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "ambler.kr",
+    "url": "https://ambler.kr",
+    "slug": "ambler-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 383
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "notion.ambler.kr",
+    "url": "https://notion.ambler.kr",
+    "slug": "notion-ambler-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 142
+    "time": 346
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "frution.ambler.kr",
+    "url": "https://fruition.ambler.kr/",
+    "slug": "frution-ambler-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 336
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 50
+    "time": 342
   }
 ]

@@ -3,24 +3,24 @@
     "name": "ambler.kr",
     "url": "https://ambler.kr",
     "slug": "ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 393
+    "time": 458
   },
   {
     "name": "notion.ambler.kr",
     "url": "https://notion.ambler.kr",
     "slug": "notion-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 388
+    "time": 382
   },
   {
     "name": "frution.ambler.kr",
     "url": "https://fruition.ambler.kr/",
     "slug": "frution-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 332
+    "time": 355
   }
 ]

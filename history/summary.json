@@ -5,7 +5,7 @@
     "slug": "ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 425
+    "time": 433
   },
   {
     "name": "notion.ambler.kr",
@@ -13,7 +13,7 @@
     "slug": "notion-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 337
+    "time": 350
   },
   {
     "name": "frution.ambler.kr",
@@ -21,6 +21,6 @@
     "slug": "frution-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 528
+    "time": 557
   }
 ]

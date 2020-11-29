@@ -5,7 +5,7 @@
     "slug": "ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 461
+    "time": 455
   },
   {
     "name": "notion.ambler.kr",
@@ -13,7 +13,7 @@
     "slug": "notion-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 351
+    "time": 357
   },
   {
     "name": "frution.ambler.kr",
@@ -21,7 +21,7 @@
     "slug": "frution-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 481
+    "time": 488
   },
   {
     "name": "parkjuhyun.kr",
@@ -29,6 +29,6 @@
     "slug": "parkjuhyun-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 569
+    "time": 492
   }
 ]

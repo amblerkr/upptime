@@ -2,6 +2,7 @@
   {
     "name": "ambler.kr",
     "url": "https://ambler.kr/",
+    "icon": "https://favicons.githubusercontent.com/ambler.kr",
     "slug": "ambler-kr",
     "status": "up",
     "uptime": "100.00%",
@@ -13,11 +14,13 @@
     "timeDay": 350,
     "timeWeek": 1593,
     "timeMonth": 845,
-    "timeYear": 845
+    "timeYear": 845,
+    "dailyMinutesDown": {}
   },
   {
     "name": "notion.ambler.kr",
     "url": "https://notion.ambler.kr/",
+    "icon": "https://favicons.githubusercontent.com/notion.ambler.kr",
     "slug": "notion-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
@@ -29,11 +32,13 @@
     "timeDay": 342,
     "timeWeek": 1567,
     "timeMonth": 777,
-    "timeYear": 777
+    "timeYear": 777,
+    "dailyMinutesDown": {}
   },
   {
     "name": "frution.ambler.kr",
     "url": "https://fruition.ambler.kr/",
+    "icon": "https://favicons.githubusercontent.com/fruition.ambler.kr",
     "slug": "frution-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
@@ -45,11 +50,13 @@
     "timeDay": 351,
     "timeWeek": 414,
     "timeMonth": 460,
-    "timeYear": 460
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   },
   {
     "name": "parkjuhyun.kr",
     "url": "https://parkjuhyun.kr/",
+    "icon": "https://favicons.githubusercontent.com/parkjuhyun.kr",
     "slug": "parkjuhyun-kr",
     "status": "up",
     "uptime": "100.00%",
@@ -61,6 +68,7 @@
     "timeDay": 376,
     "timeWeek": 457,
     "timeMonth": 456,
-    "timeYear": 456
+    "timeYear": 456,
+    "dailyMinutesDown": {}
   }
 ]

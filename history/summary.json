@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.87%",
-    "time": 630,
-    "timeDay": 650,
-    "timeWeek": 668,
-    "timeMonth": 601,
-    "timeYear": 630,
+    "time": 627,
+    "timeDay": 322,
+    "timeWeek": 624,
+    "timeMonth": 594,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2021-01-04": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.81%",
-    "time": 596,
-    "timeDay": 407,
-    "timeWeek": 735,
-    "timeMonth": 546,
-    "timeYear": 596,
+    "time": 592,
+    "timeDay": 256,
+    "timeWeek": 377,
+    "timeMonth": 538,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2021-01-04": 190
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/fruition.ambler.kr",
     "slug": "fruition-ambler-kr",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.68%",
-    "time": 487,
-    "timeDay": 277,
-    "timeWeek": 340,
-    "timeMonth": 464,
-    "timeYear": 487,
+    "uptimeYear": "99.69%",
+    "time": 539,
+    "timeDay": 2857,
+    "timeWeek": 710,
+    "timeMonth": 513,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2021-01-04": 188
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/parkjuhyun.kr",
     "slug": "parkjuhyun-kr",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.75%",
-    "time": 431,
-    "timeDay": 262,
-    "timeWeek": 319,
-    "timeMonth": 372,
-    "timeYear": 431,
+    "uptimeYear": "99.76%",
+    "time": 428,
+    "timeDay": 265,
+    "timeWeek": 321,
+    "timeMonth": 370,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2021-01-04": 187,
       "2020-12-14": 26
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.69%",
-    "time": 465,
-    "timeDay": 509,
-    "timeWeek": 432,
-    "timeMonth": 469,
-    "timeYear": 465,
+    "time": 461,
+    "timeDay": 264,
+    "timeWeek": 434,
+    "timeMonth": 466,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2021-01-04": 185
     }

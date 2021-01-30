@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.88%",
-    "time": 633,
-    "timeDay": 474,
-    "timeWeek": 764,
-    "timeMonth": 627,
-    "timeYear": 633,
+    "time": 630,
+    "timeDay": 352,
+    "timeWeek": 780,
+    "timeMonth": 629,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2021-01-04": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.82%",
-    "time": 591,
-    "timeDay": 692,
-    "timeWeek": 385,
+    "time": 587,
+    "timeDay": 287,
+    "timeWeek": 389,
     "timeMonth": 553,
-    "timeYear": 591,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2021-01-04": 190
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/fruition.ambler.kr",
     "slug": "fruition-ambler-kr",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.70%",
-    "time": 561,
-    "timeDay": 876,
-    "timeWeek": 900,
-    "timeMonth": 552,
-    "timeYear": 561,
+    "uptimeYear": "99.71%",
+    "time": 555,
+    "timeDay": 279,
+    "timeWeek": 905,
+    "timeMonth": 551,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2021-01-04": 188
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/parkjuhyun.kr",
     "slug": "parkjuhyun-kr",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.76%",
-    "time": 436,
-    "timeDay": 534,
-    "timeWeek": 401,
+    "uptimeYear": "99.77%",
+    "time": 434,
+    "timeDay": 298,
+    "timeWeek": 397,
     "timeMonth": 393,
-    "timeYear": 436,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2021-01-04": 187,
       "2020-12-14": 26
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.71%",
-    "time": 461,
-    "timeDay": 495,
-    "timeWeek": 373,
-    "timeMonth": 474,
-    "timeYear": 461,
+    "time": 458,
+    "timeDay": 349,
+    "timeWeek": 386,
+    "timeMonth": 476,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2021-01-04": 185
     }

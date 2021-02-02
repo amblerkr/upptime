@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.88%",
-    "time": 636,
-    "timeDay": 1426,
-    "timeWeek": 702,
-    "timeMonth": 665,
-    "timeYear": 636,
+    "time": 633,
+    "timeDay": 366,
+    "timeWeek": 662,
+    "timeMonth": 669,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2021-01-04": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.83%",
-    "time": 582,
-    "timeDay": 298,
-    "timeWeek": 392,
-    "timeMonth": 543,
-    "timeYear": 582,
+    "time": 584,
+    "timeDay": 834,
+    "timeWeek": 453,
+    "timeMonth": 560,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2021-01-04": 190
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/fruition.ambler.kr",
     "slug": "fruition-ambler-kr",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.72%",
-    "time": 551,
-    "timeDay": 532,
-    "timeWeek": 923,
-    "timeMonth": 557,
-    "timeYear": 551,
+    "uptimeYear": "99.73%",
+    "time": 552,
+    "timeDay": 566,
+    "timeWeek": 965,
+    "timeMonth": 551,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2021-01-04": 188
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
-    "time": 434,
-    "timeDay": 289,
-    "timeWeek": 439,
-    "timeMonth": 397,
-    "timeYear": 434,
+    "time": 436,
+    "timeDay": 633,
+    "timeWeek": 492,
+    "timeMonth": 405,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2021-01-04": 187,
       "2020-12-14": 26
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.73%",
-    "time": 454,
-    "timeDay": 276,
-    "timeWeek": 391,
-    "timeMonth": 477,
-    "timeYear": 454,
+    "time": 463,
+    "timeDay": 932,
+    "timeWeek": 451,
+    "timeMonth": 495,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2021-01-04": 185
     }

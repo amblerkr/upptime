@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 619,
-    "timeDay": 346,
-    "timeWeek": 403,
-    "timeMonth": 560,
-    "timeYear": 619,
+    "time": 615,
+    "timeDay": 278,
+    "timeWeek": 390,
+    "timeMonth": 561,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2021-01-04": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 575,
-    "timeDay": 422,
-    "timeWeek": 489,
-    "timeMonth": 532,
-    "timeYear": 575,
+    "time": 587,
+    "timeDay": 1730,
+    "timeWeek": 617,
+    "timeMonth": 579,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2021-01-04": 190
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 528,
-    "timeDay": 275,
-    "timeWeek": 363,
-    "timeMonth": 504,
-    "timeYear": 528,
+    "time": 524,
+    "timeDay": 276,
+    "timeWeek": 321,
+    "timeMonth": 505,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2021-01-04": 188
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 430,
-    "timeDay": 335,
-    "timeWeek": 393,
+    "time": 428,
+    "timeDay": 273,
+    "timeWeek": 341,
     "timeMonth": 377,
-    "timeYear": 430,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2021-01-04": 187,
       "2020-12-14": 26
@@ -86,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/loona.kr",
     "slug": "loona-kr",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 451,
-    "timeDay": 271,
-    "timeWeek": 432,
-    "timeMonth": 383,
-    "timeYear": 451,
+    "uptimeYear": "99.77%",
+    "time": 449,
+    "timeDay": 299,
+    "timeWeek": 341,
+    "timeMonth": 384,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2021-01-04": 185
     }

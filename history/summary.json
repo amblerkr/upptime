@@ -4,9 +4,9 @@
     "url": "https://ambler.kr/",
     "icon": "https://favicons.githubusercontent.com/ambler.kr",
     "slug": "ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -16,6 +16,7 @@
     "timeMonth": 432,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2021-04-26": 0,
       "2021-02-12": 137,
       "2021-01-04": 128
     }

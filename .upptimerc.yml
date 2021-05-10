@@ -10,10 +10,8 @@ sites:
     url: https://notion.ambler.kr/
   - name: fruition.ambler.kr
     url: https://fruition.ambler.kr/
-  - name: parkjuhyun.kr
-    url: https://parkjuhyun.kr/
-  - name: loona.kr
-    url: https://loona.kr/
+  - name: bluv.ambler.kr
+    url: https://bluv.ambler.kr/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

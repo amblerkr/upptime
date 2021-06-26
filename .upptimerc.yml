@@ -15,9 +15,9 @@ sites:
   - name: rsshub.ambler.kr
     url: https://rsshub.ambler.kr/
   - name: chatwoot.ambler.kr
-    url: https://rsshub.ambler.kr/
-  - name: svg-to-png.ambler.kr/
-    url: svg-to-png.ambler.kr
+    url: https://chatwoot.ambler.kr/
+  - name: svg-to-png.ambler.kr
+    url: https://svg-to-png.ambler.kr/
   - name: bluv.ambler.kr
     url: https://bluv.ambler.kr/
 

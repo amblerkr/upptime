@@ -6,10 +6,18 @@ repo: upptime # Your Github repository name
 sites:
   - name: ambler.kr
     url: https://ambler.kr/
+  - name: link.ambler.kr
+    url: https://link.ambler.kr/
   - name: notion.ambler.kr
     url: https://notion.ambler.kr/
   - name: fruition.ambler.kr
     url: https://fruition.ambler.kr/
+  - name: rsshub.ambler.kr
+    url: https://rsshub.ambler.kr/
+  - name: chatwoot.ambler.kr
+    url: https://rsshub.ambler.kr/
+  - name: svg-to-png.ambler.kr/
+    url: svg-to-png.ambler.kr
   - name: bluv.ambler.kr
     url: https://bluv.ambler.kr/
 

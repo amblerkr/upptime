@@ -24,6 +24,8 @@ sites:
     url: https://rssbridge.ambler.kr/  
   - name: reddit-rss.ambler.kr
     url: https://reddit-rss.ambler.kr/
+  - name: tiktokrss.ambler.kr
+    url: https://tiktokrss.ambler.kr/   
   - name: monitorss.ambler.kr
     url: https://monitorss.ambler.kr/
   - name: bluv.ambler.kr

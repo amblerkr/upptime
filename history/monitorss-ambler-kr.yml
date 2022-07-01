@@ -1,7 +1,7 @@
 url: https://monitorss.ambler.kr/
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2022-06-30T23:20:18.638Z
+status: down
+code: 403
+responseTime: 161
+lastUpdated: 2022-07-01T04:42:42.551Z
 startTime: Sun Jul 18 2021 10:30:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

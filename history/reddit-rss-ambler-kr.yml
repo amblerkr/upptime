@@ -1,7 +1,7 @@
 url: https://reddit-rss.ambler.kr/
-status: up
-code: 200
-responseTime: 1529
-lastUpdated: 2023-06-12T23:15:46.280Z
+status: down
+code: 500
+responseTime: 8747
+lastUpdated: 2023-06-13T19:12:33.225Z
 startTime: Sun Jul 18 2021 10:30:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

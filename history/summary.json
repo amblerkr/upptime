@@ -171,18 +171,19 @@
     "url": "https://notion.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion.ambler.kr.ico",
     "slug": "notion-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
+    "time": 439,
     "timeDay": 563,
     "timeWeek": 453,
     "timeMonth": 579,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-03-31": 19
     }
   },
@@ -193,9 +194,9 @@
     "slug": "fruition-ambler-kr",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 446,
     "timeDay": 372,
@@ -203,7 +204,6 @@
     "timeMonth": 355,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-07-07": 13,
       "2023-03-31": 19,
       "2023-03-27": 21,
       "2023-03-17": 23
@@ -226,7 +226,7 @@
     "timeMonth": 239,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-07-07": 691,
+      "2023-07-07": 704,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -683,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-07-07": 692,
+      "2023-07-07": 704,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -863,7 +863,7 @@
     "timeMonth": 199,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-07-07": 692,
+      "2023-07-07": 704,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,

@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.92%",
+    "uptimeYear": "78.99%",
     "time": 348,
-    "timeDay": 168,
-    "timeWeek": 205,
-    "timeMonth": 256,
+    "timeDay": 243,
+    "timeWeek": 209,
+    "timeMonth": 257,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2023-10-13": 52,
@@ -94,8 +94,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -110,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 168,
-    "timeWeek": 181,
-    "timeMonth": 197,
-    "timeYear": 281,
+    "timeDay": 312,
+    "timeWeek": 208,
+    "timeMonth": 204,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 465,
-    "timeDay": 679,
-    "timeWeek": 446,
-    "timeMonth": 369,
-    "timeYear": 475,
+    "time": 467,
+    "timeDay": 938,
+    "timeWeek": 536,
+    "timeMonth": 386,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-09-25": 57,
       "2023-03-31": 19
@@ -148,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 463,
-    "timeDay": 509,
-    "timeWeek": 542,
-    "timeMonth": 367,
-    "timeYear": 485,
+    "time": 464,
+    "timeDay": 898,
+    "timeWeek": 630,
+    "timeMonth": 387,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2023-09-25": 55,
       "2023-03-31": 19,
@@ -166,18 +165,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "47.44%",
+    "uptime": "47.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 634,
-    "timeDay": 332,
-    "timeWeek": 171,
-    "timeMonth": 208,
-    "timeYear": 240,
+    "timeDay": 518,
+    "timeWeek": 223,
+    "timeMonth": 220,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-12-02": 1068,
+      "2023-12-03": 37,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -540,8 +540,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -556,10 +555,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 70,
+    "timeDay": 238,
     "timeWeek": 129,
-    "timeMonth": 145,
-    "timeYear": 190,
+    "timeMonth": 152,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2022-12-20": 19
     }
@@ -574,11 +573,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "95.04%",
     "time": 413,
-    "timeDay": 375,
-    "timeWeek": 409,
-    "timeMonth": 583,
+    "timeDay": 151,
+    "timeWeek": 406,
+    "timeMonth": 576,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2023-06-13": 81,
@@ -599,8 +598,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -615,9 +613,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 261,
-    "timeDay": 55,
-    "timeWeek": 199,
-    "timeMonth": 185,
+    "timeDay": 336,
+    "timeWeek": 188,
+    "timeMonth": 183,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2023-09-19": 40,
@@ -633,17 +631,16 @@
     "slug": "rssbridge-ambler-kr",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "92.83%",
-    "time": 1721,
-    "timeDay": 7555,
-    "timeWeek": 1449,
-    "timeMonth": 1335,
-    "timeYear": 1942,
+    "time": 1729,
+    "timeDay": 10586,
+    "timeWeek": 1753,
+    "timeMonth": 1419,
+    "timeYear": 1952,
     "dailyMinutesDown": {
-      "2023-12-02": 12,
       "2023-11-29": 18,
       "2023-11-26": 24,
       "2023-11-25": 19,
@@ -734,12 +731,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "94.89%",
+    "uptimeYear": "94.97%",
     "time": 1134,
-    "timeDay": 1444,
-    "timeWeek": 1348,
-    "timeMonth": 1312,
-    "timeYear": 1253,
+    "timeDay": 683,
+    "timeWeek": 1255,
+    "timeMonth": 1299,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-11-10": 176,
       "2023-06-13": 81,
@@ -763,8 +760,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -773,18 +769,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "71.10%",
+    "uptime": "71.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.22%",
+    "uptimeYear": "34.14%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-12-02": 1069,
+      "2023-12-03": 38,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -1037,12 +1034,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.91%",
+    "uptimeYear": "90.99%",
     "time": 404,
-    "timeDay": 244,
-    "timeWeek": 227,
-    "timeMonth": 328,
-    "timeYear": 489,
+    "timeDay": 337,
+    "timeWeek": 223,
+    "timeMonth": 332,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2023-09-28": 36,
       "2023-09-25": 29,
@@ -1091,8 +1088,7 @@
       "2022-12-08": 38,
       "2022-12-06": 449,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -1101,18 +1097,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "50.11%",
+    "uptime": "50.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 260,
-    "timeWeek": 182,
-    "timeMonth": 180,
+    "timeDay": 147,
+    "timeWeek": 168,
+    "timeMonth": 184,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-12-02": 1069,
+      "2023-12-03": 38,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -1475,8 +1472,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   }
 ]

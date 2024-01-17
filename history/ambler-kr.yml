@@ -1,7 +1,7 @@
 url: https://ambler.kr/
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-01-16T23:16:15.985Z
+status: down
+code: 500
+responseTime: 335
+lastUpdated: 2024-01-17T21:52:55.808Z
 startTime: 2020-11-17T07:16:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>

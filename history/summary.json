@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 317,
-    "timeDay": 320,
-    "timeWeek": 255,
+    "timeDay": 351,
+    "timeWeek": 272,
     "timeMonth": 283,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 284,
-    "timeWeek": 193,
-    "timeMonth": 255,
+    "timeDay": 199,
+    "timeWeek": 195,
+    "timeMonth": 253,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 727,
-    "timeDay": 924,
-    "timeWeek": 758,
-    "timeMonth": 859,
-    "timeYear": 746,
+    "time": 728,
+    "timeDay": 779,
+    "timeWeek": 786,
+    "timeMonth": 858,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-02-14": 84
     }
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 674,
-    "timeDay": 909,
-    "timeWeek": 779,
-    "timeMonth": 775,
-    "timeYear": 700,
+    "timeDay": 922,
+    "timeWeek": 820,
+    "timeMonth": 776,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-02-14": 83,
       "2025-01-07": 47,
@@ -93,12 +93,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 211,
-    "timeDay": 182,
-    "timeWeek": 190,
-    "timeMonth": 195,
+    "timeDay": 191,
+    "timeWeek": 189,
+    "timeMonth": 192,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-05-02": 1375,
+      "2025-05-03": 51,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -461,8 +462,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 573,
-    "timeWeek": 227,
-    "timeMonth": 197,
+    "timeDay": 173,
+    "timeWeek": 219,
+    "timeMonth": 195,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -495,8 +495,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 286,
-    "timeWeek": 413,
+    "timeDay": 357,
+    "timeWeek": 421,
     "timeMonth": 472,
     "timeYear": 527,
     "dailyMinutesDown": {}
@@ -513,10 +513,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 275,
-    "timeDay": 469,
-    "timeWeek": 258,
-    "timeMonth": 296,
-    "timeYear": 277,
+    "timeDay": 346,
+    "timeWeek": 279,
+    "timeMonth": 297,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2025-01-11": 28,
       "2024-09-01": 47,
@@ -530,17 +530,16 @@
     "slug": "rssbridge-ambler-kr",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.55%",
-    "time": 2211,
-    "timeDay": 966,
-    "timeWeek": 3387,
-    "timeMonth": 3727,
-    "timeYear": 2328,
+    "time": 2212,
+    "timeDay": 718,
+    "timeWeek": 3382,
+    "timeMonth": 3729,
+    "timeYear": 2329,
     "dailyMinutesDown": {
-      "2025-05-02": 12,
       "2025-05-01": 73,
       "2025-04-30": 37,
       "2025-04-29": 82,
@@ -615,18 +614,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "61.22%",
+    "uptime": "61.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 740,
-    "timeDay": 652,
-    "timeWeek": 664,
-    "timeMonth": 762,
+    "timeDay": 547,
+    "timeWeek": 709,
+    "timeMonth": 752,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-05-02": 1375,
+      "2025-05-03": 51,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -989,8 +989,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -999,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "43.84%",
+    "uptime": "43.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1010,7 +1009,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1375,
+      "2025-05-03": 51,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1373,8 +1373,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -1383,18 +1382,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "69.18%",
+    "uptime": "69.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 308,
-    "timeDay": 370,
-    "timeWeek": 263,
-    "timeMonth": 311,
+    "timeDay": 249,
+    "timeWeek": 232,
+    "timeMonth": 313,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-05-02": 1375,
+      "2025-05-03": 51,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1757,8 +1757,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -1773,12 +1772,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 196,
-    "timeDay": 293,
-    "timeWeek": 160,
-    "timeMonth": 153,
-    "timeYear": 202,
+    "timeDay": 179,
+    "timeWeek": 155,
+    "timeMonth": 149,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-05-02": 1375,
+      "2025-05-03": 51,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -2141,8 +2141,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   }
 ]

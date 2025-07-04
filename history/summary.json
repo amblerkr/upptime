@@ -95,7 +95,7 @@
     "timeMonth": 274,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-07-04": 1064,
+      "2025-07-04": 1196,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -524,15 +524,15 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.51%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "99.44%",
-    "time": 2653,
-    "timeDay": 3125,
-    "timeWeek": 2472,
+    "time": 2655,
+    "timeDay": 2773,
+    "timeWeek": 2515,
     "timeMonth": 4300,
     "timeYear": 2836,
     "dailyMinutesDown": {
@@ -596,7 +596,7 @@
       "2025-04-11": 21,
       "2025-04-10": 65,
       "2025-04-09": 36,
-      "2025-04-08": 59
+      "2025-04-08": 25
     }
   },
   {
@@ -616,7 +616,7 @@
     "timeMonth": 696,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-07-04": 1064,
+      "2025-07-04": 1196,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -989,7 +989,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "41.89%",
+    "uptime": "41.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1000,7 +1000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 1064,
+      "2025-07-04": 1196,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -1373,7 +1373,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "66.18%",
+    "uptime": "66.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1384,7 +1384,7 @@
     "timeMonth": 350,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-07-04": 1064,
+      "2025-07-04": 1196,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -1768,7 +1768,7 @@
     "timeMonth": 219,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-07-04": 1064,
+      "2025-07-04": 1196,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,

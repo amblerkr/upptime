@@ -95,7 +95,7 @@
     "timeMonth": 241,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-07-22": 881,
+      "2025-07-22": 1076,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -524,13 +524,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "95.71%",
+    "uptimeDay": "95.68%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.43%",
-    "time": 2600,
+    "time": 2602,
     "timeDay": 1251,
     "timeWeek": 3303,
     "timeMonth": 2989,
@@ -594,8 +594,7 @@
       "2025-05-01": 73,
       "2025-04-30": 37,
       "2025-04-29": 82,
-      "2025-04-25": 51,
-      "2025-04-24": 22
+      "2025-04-25": 51
     }
   },
   {
@@ -604,7 +603,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "57.85%",
+    "uptime": "57.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -615,7 +614,7 @@
     "timeMonth": 642,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-07-22": 881,
+      "2025-07-22": 1077,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -999,7 +998,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 881,
+      "2025-07-22": 1077,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -1372,7 +1371,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "65.37%",
+    "uptime": "65.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1383,7 +1382,7 @@
     "timeMonth": 338,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-07-22": 881,
+      "2025-07-22": 1077,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -1767,7 +1766,7 @@
     "timeMonth": 192,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-07-22": 881,
+      "2025-07-22": 1077,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,

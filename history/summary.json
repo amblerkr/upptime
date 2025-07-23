@@ -4,19 +4,19 @@
     "url": "https://ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/ambler.kr.ico",
     "slug": "ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "92.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 336,
-    "timeDay": 463,
-    "timeWeek": 322,
-    "timeMonth": 370,
+    "timeDay": 378,
+    "timeWeek": 319,
+    "timeMonth": 367,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 35
     }
   },
   {
@@ -97,7 +97,7 @@
     "timeMonth": 235,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-07-23": 376,
+      "2025-07-23": 411,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -530,12 +530,12 @@
     "uptime": "99.86%",
     "uptimeDay": "95.27%",
     "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.49%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.42%",
     "time": 2613,
     "timeDay": 3484,
     "timeWeek": 3650,
-    "timeMonth": 3048,
+    "timeMonth": 2883,
     "timeYear": 2853,
     "dailyMinutesDown": {
       "2025-07-22": 68,
@@ -616,7 +616,7 @@
     "timeMonth": 647,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-07-23": 376,
+      "2025-07-23": 411,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -1000,7 +1000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-23": 376,
+      "2025-07-23": 411,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -1384,7 +1384,7 @@
     "timeMonth": 337,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-07-23": 376,
+      "2025-07-23": 411,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -1768,7 +1768,7 @@
     "timeMonth": 172,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-23": 376,
+      "2025-07-23": 411,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,

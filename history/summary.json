@@ -100,7 +100,7 @@
     "timeMonth": 242,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-07-29": 627,
+      "2025-07-29": 695,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -533,12 +533,12 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "94.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "93.97%",
     "uptimeWeek": "97.23%",
     "uptimeMonth": "97.69%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 2641,
     "timeDay": 1264,
     "timeWeek": 1672,
@@ -605,8 +605,7 @@
       "2025-05-06": 25,
       "2025-05-04": 24,
       "2025-05-03": 116,
-      "2025-05-01": 73,
-      "2025-04-30": 21
+      "2025-05-01": 73
     }
   },
   {
@@ -626,7 +625,7 @@
     "timeMonth": 638,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-07-29": 627,
+      "2025-07-29": 695,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -999,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "41.17%",
+    "uptime": "41.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1010,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 627,
+      "2025-07-29": 695,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -1394,7 +1393,7 @@
     "timeMonth": 339,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-07-29": 627,
+      "2025-07-29": 695,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -1778,7 +1777,7 @@
     "timeMonth": 190,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-07-29": 627,
+      "2025-07-29": 695,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,

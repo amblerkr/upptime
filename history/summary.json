@@ -100,7 +100,7 @@
     "timeMonth": 242,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-08-01": 595,
+      "2025-08-01": 679,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -533,19 +533,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "97.46%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "99.41%",
-    "time": 2635,
+    "time": 2637,
     "timeDay": 1618,
     "timeWeek": 1378,
     "timeMonth": 2372,
     "timeYear": 2831,
     "dailyMinutesDown": {
-      "2025-08-01": 65,
+      "2025-08-01": 66,
       "2025-07-29": 31,
       "2025-07-28": 82,
       "2025-07-26": 69,
@@ -606,7 +606,7 @@
       "2025-05-06": 25,
       "2025-05-04": 24,
       "2025-05-03": 116,
-      "2025-05-01": 51
+      "2025-05-01": 27
     }
   },
   {
@@ -626,7 +626,7 @@
     "timeMonth": 625,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-08-01": 596,
+      "2025-08-01": 679,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-01": 596,
+      "2025-08-01": 679,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1383,7 +1383,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "64.94%",
+    "uptime": "64.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1394,7 +1394,7 @@
     "timeMonth": 340,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-08-01": 596,
+      "2025-08-01": 679,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1778,7 +1778,7 @@
     "timeMonth": 183,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-08-01": 596,
+      "2025-08-01": 679,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,

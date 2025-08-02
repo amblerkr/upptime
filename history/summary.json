@@ -11,9 +11,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 289,
-    "timeWeek": 313,
-    "timeMonth": 351,
+    "timeDay": 453,
+    "timeWeek": 330,
+    "timeMonth": 356,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-07-27": 36,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 231,
-    "timeWeek": 254,
-    "timeMonth": 243,
+    "timeDay": 290,
+    "timeWeek": 256,
+    "timeMonth": 244,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2025-07-27": 36
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 717,
-    "timeDay": 694,
-    "timeWeek": 629,
-    "timeMonth": 596,
+    "timeDay": 515,
+    "timeWeek": 621,
+    "timeMonth": 595,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-02-14": 84
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 672,
-    "timeDay": 447,
-    "timeWeek": 466,
-    "timeMonth": 517,
+    "timeDay": 376,
+    "timeWeek": 445,
+    "timeMonth": 513,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-02-14": 83,
@@ -89,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "28.19%",
+    "uptime": "28.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 223,
-    "timeDay": 329,
-    "timeWeek": 230,
-    "timeMonth": 242,
-    "timeYear": 230,
+    "time": 224,
+    "timeDay": 1021,
+    "timeWeek": 364,
+    "timeMonth": 266,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-01": 697,
+      "2025-08-02": 57,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -463,8 +464,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -479,10 +479,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 262,
-    "timeWeek": 232,
+    "timeDay": 252,
+    "timeWeek": 230,
     "timeMonth": 228,
-    "timeYear": 208,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2025-07-27": 36
     }
@@ -498,11 +498,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 528,
-    "timeDay": 310,
-    "timeWeek": 806,
-    "timeMonth": 656,
-    "timeYear": 529,
+    "time": 534,
+    "timeDay": 3519,
+    "timeWeek": 830,
+    "timeMonth": 758,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-07-27": 36
     }
@@ -519,10 +519,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 102,
+    "timeDay": 437,
     "timeWeek": 222,
-    "timeMonth": 275,
-    "timeYear": 287,
+    "timeMonth": 276,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-01-11": 28,
       "2024-09-01": 47
@@ -536,14 +536,14 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "94.19%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "97.54%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "99.41%",
-    "time": 2637,
-    "timeDay": 1392,
-    "timeWeek": 1331,
-    "timeMonth": 2349,
-    "timeYear": 2827,
+    "time": 2638,
+    "timeDay": 1761,
+    "timeWeek": 1220,
+    "timeMonth": 2313,
+    "timeYear": 2835,
     "dailyMinutesDown": {
       "2025-08-01": 83,
       "2025-07-29": 31,
@@ -615,18 +615,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "57.46%",
+    "uptime": "57.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 740,
-    "timeDay": 728,
-    "timeWeek": 622,
-    "timeMonth": 625,
-    "timeYear": 778,
+    "timeDay": 713,
+    "timeWeek": 627,
+    "timeMonth": 629,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-01": 697,
+      "2025-08-02": 57,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -989,8 +990,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -999,7 +999,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "41.08%",
+    "uptime": "41.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1010,7 +1010,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-01": 697,
+      "2025-08-02": 57,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1373,8 +1374,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -1383,18 +1383,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "64.93%",
+    "uptime": "64.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 290,
-    "timeDay": 163,
-    "timeWeek": 350,
-    "timeMonth": 340,
+    "timeDay": 346,
+    "timeWeek": 334,
+    "timeMonth": 333,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-08-01": 697,
+      "2025-08-02": 57,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1757,8 +1758,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -1767,18 +1767,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "30.39%",
+    "uptime": "30.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 196,
-    "timeDay": 215,
-    "timeWeek": 257,
-    "timeMonth": 183,
-    "timeYear": 194,
+    "timeDay": 59,
+    "timeWeek": 122,
+    "timeMonth": 176,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-01": 697,
+      "2025-08-02": 57,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -2141,8 +2142,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   }
 ]

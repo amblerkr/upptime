@@ -100,7 +100,7 @@
     "timeMonth": 266,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-03": 850,
+      "2025-08-03": 1011,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -533,16 +533,16 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "98.67%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "98.65%",
     "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.67%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.41%",
-    "time": 2636,
+    "time": 2638,
     "timeDay": 697,
     "timeWeek": 1311,
-    "timeMonth": 2277,
+    "timeMonth": 2302,
     "timeYear": 2832,
     "dailyMinutesDown": {
       "2025-08-03": 19,
@@ -606,7 +606,7 @@
       "2025-05-07": 20,
       "2025-05-06": 25,
       "2025-05-04": 24,
-      "2025-05-03": 116
+      "2025-05-03": 98
     }
   },
   {
@@ -615,7 +615,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -626,7 +626,7 @@
     "timeMonth": 616,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2025-08-03": 850,
+      "2025-08-03": 1011,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 850,
+      "2025-08-03": 1011,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1394,7 +1394,7 @@
     "timeMonth": 340,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-08-03": 850,
+      "2025-08-03": 1011,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1767,7 +1767,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "30.35%",
+    "uptime": "30.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1778,7 +1778,7 @@
     "timeMonth": 176,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-03": 850,
+      "2025-08-03": 1011,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,

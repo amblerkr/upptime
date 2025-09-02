@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "27.61%",
+    "uptime": "27.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -110,7 +110,7 @@
     "timeMonth": 250,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-09-02": 52,
+      "2025-09-02": 113,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -552,18 +552,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.99%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.40%",
-    "time": 2899,
+    "time": 2901,
     "timeDay": 1061,
     "timeWeek": 5777,
     "timeMonth": 4239,
     "timeYear": 2955,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-08-31": 41,
       "2025-08-29": 18,
       "2025-08-28": 94,
@@ -625,8 +626,7 @@
       "2025-05-29": 74,
       "2025-05-28": 7,
       "2025-05-26": 19,
-      "2025-05-25": 28,
-      "2025-05-24": 15
+      "2025-05-25": 28
     }
   },
   {
@@ -635,7 +635,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "56.26%",
+    "uptime": "56.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -646,7 +646,7 @@
     "timeMonth": 583,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-09-02": 52,
+      "2025-09-02": 113,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1030,7 +1030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-02": 52,
+      "2025-09-02": 113,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1414,7 +1414,7 @@
     "timeMonth": 352,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-09-02": 52,
+      "2025-09-02": 113,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1798,7 +1798,7 @@
     "timeMonth": 185,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-09-02": 52,
+      "2025-09-02": 113,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,

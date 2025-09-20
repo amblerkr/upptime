@@ -114,7 +114,7 @@
     "timeMonth": 251,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-09-20": 383,
+      "2025-09-20": 591,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -560,15 +560,15 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "94.79%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "95.08%",
     "uptimeMonth": "96.61%",
-    "uptimeYear": "99.36%",
-    "time": 3043,
+    "uptimeYear": "99.37%",
+    "time": 3032,
     "timeDay": 1070,
-    "timeWeek": 3596,
+    "timeWeek": 3646,
     "timeMonth": 4984,
     "timeYear": 3169,
     "dailyMinutesDown": {
@@ -631,7 +631,7 @@
       "2025-06-23": 76,
       "2025-06-22": 86,
       "2025-06-19": 18,
-      "2025-06-18": 103
+      "2025-06-18": 58
     }
   },
   {
@@ -651,7 +651,7 @@
     "timeMonth": 577,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-09-20": 383,
+      "2025-09-20": 591,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1024,7 +1024,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "39.71%",
+    "uptime": "39.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1035,7 +1035,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 383,
+      "2025-09-20": 591,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1419,7 +1419,7 @@
     "timeMonth": 308,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-09-20": 383,
+      "2025-09-20": 591,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1803,7 +1803,7 @@
     "timeMonth": 195,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-09-20": 383,
+      "2025-09-20": 591,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,

@@ -119,7 +119,7 @@
     "timeMonth": 204,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-10-21": 52,
+      "2025-10-21": 300,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -571,18 +571,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.41%",
-    "time": 3167,
-    "timeDay": 5696,
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.42%",
+    "time": 3169,
+    "timeDay": 3045,
     "timeWeek": 5195,
-    "timeMonth": 4620,
+    "timeMonth": 4611,
     "timeYear": 3408,
     "dailyMinutesDown": {
+      "2025-10-21": 0,
       "2025-10-19": 21,
       "2025-10-18": 46,
       "2025-10-16": 34,
@@ -643,8 +644,7 @@
       "2025-07-23": 20,
       "2025-07-22": 68,
       "2025-07-21": 57,
-      "2025-07-19": 83,
-      "2025-07-18": 30
+      "2025-07-19": 83
     }
   },
   {
@@ -664,7 +664,7 @@
     "timeMonth": 675,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-10-21": 52,
+      "2025-10-21": 300,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -1048,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-21": 53,
+      "2025-10-21": 301,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -1421,7 +1421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "61.57%",
+    "uptime": "61.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1432,7 +1432,7 @@
     "timeMonth": 321,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-10-21": 53,
+      "2025-10-21": 301,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -1816,7 +1816,7 @@
     "timeMonth": 129,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-10-21": 53,
+      "2025-10-21": 301,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,

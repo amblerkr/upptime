@@ -1,7 +1,7 @@
 url: https://fruition.ambler.kr/
-status: up
-code: 200
-responseTime: 469
-lastUpdated: 2025-10-23T04:53:17.355Z
+status: down
+code: 500
+responseTime: 91
+lastUpdated: 2025-10-23T05:49:44.021Z
 startTime: 2020-12-16T00:42:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>

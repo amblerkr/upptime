@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 347,
-    "timeDay": 212,
-    "timeWeek": 389,
-    "timeMonth": 375,
+    "timeDay": 355,
+    "timeWeek": 398,
+    "timeMonth": 377,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-01": 25,
@@ -42,10 +42,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 265,
-    "timeDay": 196,
-    "timeWeek": 338,
+    "timeDay": 258,
+    "timeWeek": 345,
     "timeMonth": 294,
-    "timeYear": 268,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2025-10-20": 33,
       "2025-09-27": 23,
@@ -72,10 +72,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 713,
-    "timeDay": 350,
-    "timeWeek": 481,
-    "timeMonth": 477,
-    "timeYear": 751,
+    "timeDay": 458,
+    "timeWeek": 465,
+    "timeMonth": 478,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2025-10-23": 28,
       "2025-02-14": 84
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 666,
-    "timeDay": 365,
-    "timeWeek": 493,
-    "timeMonth": 427,
+    "timeDay": 447,
+    "timeWeek": 475,
+    "timeMonth": 429,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-10-23": 28,
@@ -117,12 +117,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 229,
-    "timeDay": 209,
-    "timeWeek": 238,
-    "timeMonth": 214,
+    "timeDay": 162,
+    "timeWeek": 221,
+    "timeMonth": 213,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-11-05": 1380,
+      "2025-11-06": 54,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -485,8 +486,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -501,10 +501,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 210,
-    "timeDay": 218,
+    "timeDay": 264,
     "timeWeek": 366,
-    "timeMonth": 227,
-    "timeYear": 209,
+    "timeMonth": 228,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-09-27": 23,
       "2025-09-22": 17,
@@ -529,10 +529,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
-    "time": 534,
-    "timeDay": 248,
-    "timeWeek": 319,
-    "timeMonth": 564,
+    "time": 527,
+    "timeDay": 380,
+    "timeWeek": 327,
+    "timeMonth": 572,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-10-20": 125,
@@ -559,11 +559,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 217,
-    "timeWeek": 292,
-    "timeMonth": 279,
-    "timeYear": 292,
+    "time": 283,
+    "timeDay": 128,
+    "timeWeek": 270,
+    "timeMonth": 276,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2025-10-14": 31,
       "2025-01-11": 28
@@ -576,17 +576,16 @@
     "slug": "rssbridge-ambler-kr",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.40%",
     "time": 3209,
-    "timeDay": 2751,
-    "timeWeek": 2861,
-    "timeMonth": 3045,
+    "timeDay": 3128,
+    "timeWeek": 2792,
+    "timeMonth": 3058,
     "timeYear": 3394,
     "dailyMinutesDown": {
-      "2025-11-05": 12,
       "2025-11-01": 135,
       "2025-10-30": 146,
       "2025-10-29": 13,
@@ -648,7 +647,7 @@
       "2025-08-13": 21,
       "2025-08-08": 19,
       "2025-08-07": 28,
-      "2025-08-03": 19
+      "2025-08-03": 38
     }
   },
   {
@@ -662,13 +661,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 738,
-    "timeDay": 671,
-    "timeWeek": 606,
-    "timeMonth": 620,
+    "time": 739,
+    "timeDay": 768,
+    "timeWeek": 599,
+    "timeMonth": 628,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-11-05": 1381,
+      "2025-11-06": 54,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1031,8 +1031,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1052,7 +1051,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 1381,
+      "2025-11-06": 54,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1415,8 +1415,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1425,18 +1424,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "60.95%",
+    "uptime": "60.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 298,
-    "timeDay": 274,
-    "timeWeek": 342,
-    "timeMonth": 302,
+    "timeDay": 289,
+    "timeWeek": 330,
+    "timeMonth": 303,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-11-05": 1381,
+      "2025-11-06": 54,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1799,8 +1799,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1815,12 +1814,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 189,
-    "timeDay": 82,
-    "timeWeek": 163,
-    "timeMonth": 129,
+    "timeDay": 81,
+    "timeWeek": 143,
+    "timeMonth": 130,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-11-05": 1381,
+      "2025-11-06": 54,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -2183,8 +2183,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   }
 ]

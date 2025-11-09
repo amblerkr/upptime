@@ -122,7 +122,7 @@
     "timeMonth": 213,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-11-09": 970,
+      "2025-11-09": 1217,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -574,15 +574,15 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.17%",
+    "uptimeDay": "96.14%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.40%",
-    "time": 3198,
+    "time": 3200,
     "timeDay": 3122,
-    "timeWeek": 2914,
+    "timeWeek": 2967,
     "timeMonth": 3029,
     "timeYear": 3408,
     "dailyMinutesDown": {
@@ -645,8 +645,7 @@
       "2025-08-20": 108,
       "2025-08-19": 27,
       "2025-08-16": 20,
-      "2025-08-14": 23,
-      "2025-08-13": 21
+      "2025-08-14": 23
     }
   },
   {
@@ -666,7 +665,7 @@
     "timeMonth": 626,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-11-09": 970,
+      "2025-11-09": 1217,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1039,7 +1038,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "38.41%",
+    "uptime": "38.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1050,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 970,
+      "2025-11-09": 1217,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1434,7 +1433,7 @@
     "timeMonth": 301,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-11-09": 971,
+      "2025-11-09": 1217,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1807,7 +1806,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "28.54%",
+    "uptime": "28.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1818,7 +1817,7 @@
     "timeMonth": 132,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-11-09": 971,
+      "2025-11-09": 1217,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,

@@ -126,7 +126,7 @@
     "timeMonth": 187,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 926,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -582,13 +582,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "95.34%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "95.33%",
     "uptimeMonth": "97.10%",
-    "uptimeYear": "99.43%",
-    "time": 3134,
+    "uptimeYear": "99.44%",
+    "time": 3136,
     "timeDay": 1139,
     "timeWeek": 2046,
     "timeMonth": 2679,
@@ -645,8 +645,7 @@
       "2025-09-11": 35,
       "2025-09-09": 21,
       "2025-09-08": 117,
-      "2025-09-07": 60,
-      "2025-09-06": 52
+      "2025-09-07": 60
     }
   },
   {
@@ -655,7 +654,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "53.54%",
+    "uptime": "53.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -666,7 +665,7 @@
     "timeMonth": 622,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 926,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1050,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 926,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1434,7 +1433,7 @@
     "timeMonth": 298,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 926,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1818,7 +1817,7 @@
     "timeMonth": 136,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 926,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,

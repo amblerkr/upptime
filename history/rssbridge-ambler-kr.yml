@@ -1,7 +1,7 @@
 url: https://rssbridge.ambler.kr/
-status: up
-code: 200
-responseTime: 14135
-lastUpdated: 2025-11-24T14:30:57.721Z
+status: down
+code: 503
+responseTime: 1159
+lastUpdated: 2025-11-24T20:44:50.719Z
 startTime: 2021-07-18T10:30:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

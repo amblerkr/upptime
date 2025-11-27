@@ -115,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "26.13%",
+    "uptime": "26.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -126,7 +126,7 @@
     "timeMonth": 200,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-11-27": 880,
+      "2025-11-27": 1151,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -585,16 +585,16 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.13%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "99.43%",
-    "time": 3199,
+    "uptimeYear": "99.45%",
+    "time": 3190,
     "timeDay": 1074,
-    "timeWeek": 3807,
-    "timeMonth": 2880,
+    "timeWeek": 3815,
+    "timeMonth": 2900,
     "timeYear": 3366,
     "dailyMinutesDown": {
       "2025-11-27": 42,
@@ -646,7 +646,7 @@
       "2025-09-20": 68,
       "2025-09-18": 95,
       "2025-09-17": 225,
-      "2025-09-16": 101
+      "2025-09-16": 20
     }
   },
   {
@@ -655,7 +655,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "53.20%",
+    "uptime": "53.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -666,7 +666,7 @@
     "timeMonth": 656,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-11-27": 880,
+      "2025-11-27": 1151,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 880,
+      "2025-11-27": 1151,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1423,7 +1423,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "60.12%",
+    "uptime": "60.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1434,7 +1434,7 @@
     "timeMonth": 296,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-11-27": 880,
+      "2025-11-27": 1151,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1818,7 +1818,7 @@
     "timeMonth": 149,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-11-27": 881,
+      "2025-11-27": 1151,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,

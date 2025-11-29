@@ -126,7 +126,7 @@
     "timeMonth": 202,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 353,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -585,18 +585,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.65%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "95.64%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "99.44%",
-    "time": 3188,
+    "uptimeYear": "99.45%",
+    "time": 3181,
     "timeDay": 791,
     "timeWeek": 3721,
     "timeMonth": 2858,
     "timeYear": 3365,
     "dailyMinutesDown": {
+      "2025-11-29": 0,
       "2025-11-27": 58,
       "2025-11-26": 126,
       "2025-11-24": 73,
@@ -646,7 +647,7 @@
       "2025-09-20": 68,
       "2025-09-18": 95,
       "2025-09-17": 225,
-      "2025-09-16": 20
+      "2025-09-16": 2
     }
   },
   {
@@ -655,7 +656,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "53.15%",
+    "uptime": "53.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -666,7 +667,7 @@
     "timeMonth": 664,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 353,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1039,7 +1040,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "37.93%",
+    "uptime": "37.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1050,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 353,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1434,7 +1435,7 @@
     "timeMonth": 302,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 353,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1818,7 +1819,7 @@
     "timeMonth": 153,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 353,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,

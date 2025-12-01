@@ -47,7 +47,7 @@
     "time": 262,
     "timeDay": 184,
     "timeWeek": 347,
-    "timeMonth": 295,
+    "timeMonth": 273,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-19": 15,
@@ -80,7 +80,7 @@
     "time": 710,
     "timeDay": 395,
     "timeWeek": 494,
-    "timeMonth": 511,
+    "timeMonth": 518,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2025-10-23": 28,
@@ -101,7 +101,7 @@
     "time": 668,
     "timeDay": 408,
     "timeWeek": 457,
-    "timeMonth": 552,
+    "timeMonth": 555,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2025-10-23": 28,
@@ -118,15 +118,16 @@
     "uptime": "26.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 228,
     "timeDay": 50,
     "timeWeek": 173,
-    "timeMonth": 188,
+    "timeMonth": 186,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-11-30": 1434,
+      "2025-12-01": 65,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -489,8 +490,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -507,7 +507,7 @@
     "time": 210,
     "timeDay": 186,
     "timeWeek": 253,
-    "timeMonth": 231,
+    "timeMonth": 230,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-19": 15,
@@ -539,7 +539,7 @@
     "time": 552,
     "timeDay": 385,
     "timeWeek": 1251,
-    "timeMonth": 1011,
+    "timeMonth": 1033,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-11-19": 16,
@@ -572,7 +572,7 @@
     "time": 290,
     "timeDay": 361,
     "timeWeek": 326,
-    "timeMonth": 397,
+    "timeMonth": 407,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-11-23": 51,
@@ -586,18 +586,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "99.45%",
     "time": 3177,
     "timeDay": 2041,
     "timeWeek": 3282,
-    "timeMonth": 2892,
+    "timeMonth": 2856,
     "timeYear": 3366,
     "dailyMinutesDown": {
-      "2025-11-30": 40,
+      "2025-11-30": 29,
       "2025-11-29": 56,
       "2025-11-27": 58,
       "2025-11-26": 126,
@@ -647,7 +647,7 @@
       "2025-09-21": 28,
       "2025-09-20": 68,
       "2025-09-18": 95,
-      "2025-09-17": 79
+      "2025-09-17": 112
     }
   },
   {
@@ -656,18 +656,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "53.09%",
+    "uptime": "53.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 742,
     "timeDay": 634,
     "timeWeek": 721,
-    "timeMonth": 657,
+    "timeMonth": 654,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-11-30": 1434,
+      "2025-12-01": 66,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1030,8 +1031,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -1043,7 +1043,7 @@
     "uptime": "37.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1051,7 +1051,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 1434,
+      "2025-12-01": 66,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1414,8 +1415,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -1427,15 +1427,16 @@
     "uptime": "59.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 298,
     "timeDay": 142,
     "timeWeek": 289,
-    "timeMonth": 288,
+    "timeMonth": 285,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-11-30": 1434,
+      "2025-12-01": 66,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1798,8 +1799,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -1811,7 +1811,7 @@
     "uptime": "28.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 185,
     "timeDay": 178,
@@ -1819,7 +1819,8 @@
     "timeMonth": 146,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-11-30": 1434,
+      "2025-12-01": 66,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -2182,8 +2183,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   }
 ]

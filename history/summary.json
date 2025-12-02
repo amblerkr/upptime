@@ -115,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "26.05%",
+    "uptime": "26.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -126,7 +126,7 @@
     "timeMonth": 188,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-02": 922,
+      "2025-12-02": 946,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -585,13 +585,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "95.97%",
+    "uptimeDay": "95.94%",
     "uptimeWeek": "95.76%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.44%",
-    "time": 3194,
+    "time": 3196,
     "timeDay": 11611,
     "timeWeek": 3700,
     "timeMonth": 3113,
@@ -649,7 +649,7 @@
       "2025-09-21": 28,
       "2025-09-20": 68,
       "2025-09-18": 95,
-      "2025-09-17": 34
+      "2025-09-17": 15
     }
   },
   {
@@ -669,7 +669,7 @@
     "timeMonth": 651,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-12-02": 923,
+      "2025-12-02": 947,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1053,7 +1053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 923,
+      "2025-12-02": 947,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1437,7 +1437,7 @@
     "timeMonth": 285,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-12-02": 923,
+      "2025-12-02": 947,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1821,7 +1821,7 @@
     "timeMonth": 150,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-12-02": 923,
+      "2025-12-02": 947,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,

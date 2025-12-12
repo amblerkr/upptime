@@ -128,7 +128,7 @@
     "timeMonth": 195,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-12": 57,
+      "2025-12-12": 292,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -587,18 +587,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "95.95%",
     "uptimeMonth": "95.81%",
-    "uptimeYear": "99.41%",
-    "time": 3200,
+    "uptimeYear": "99.42%",
+    "time": 3202,
     "timeDay": 1158,
     "timeWeek": 2714,
     "timeMonth": 3325,
     "timeYear": 3421,
     "dailyMinutesDown": {
+      "2025-12-12": 1,
       "2025-12-11": 17,
       "2025-12-10": 20,
       "2025-12-09": 128,
@@ -649,7 +650,7 @@
       "2025-10-09": 25,
       "2025-10-07": 34,
       "2025-10-06": 46,
-      "2025-10-05": 62
+      "2025-10-05": 25
     }
   },
   {
@@ -669,7 +670,7 @@
     "timeMonth": 699,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-12-12": 58,
+      "2025-12-12": 292,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1053,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 58,
+      "2025-12-12": 292,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1426,7 +1427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "59.58%",
+    "uptime": "59.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1437,7 +1438,7 @@
     "timeMonth": 254,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-12-12": 58,
+      "2025-12-12": 292,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1810,7 +1811,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "27.99%",
+    "uptime": "27.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1821,7 +1822,7 @@
     "timeMonth": 309,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-12": 58,
+      "2025-12-12": 292,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,

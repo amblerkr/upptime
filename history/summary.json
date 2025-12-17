@@ -128,7 +128,7 @@
     "timeMonth": 205,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-17": 823,
+      "2025-12-17": 896,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -588,16 +588,16 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "99.38%",
-    "time": 3221,
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "99.39%",
+    "time": 3223,
     "timeDay": 2760,
-    "timeWeek": 4387,
-    "timeMonth": 3827,
+    "timeWeek": 4572,
+    "timeMonth": 3853,
     "timeYear": 3456,
     "dailyMinutesDown": {
       "2025-12-17": 230,
@@ -648,7 +648,7 @@
       "2025-10-18": 46,
       "2025-10-16": 34,
       "2025-10-15": 36,
-      "2025-10-14": 53
+      "2025-10-14": 22
     }
   },
   {
@@ -668,7 +668,7 @@
     "timeMonth": 692,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-12-17": 823,
+      "2025-12-17": 897,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1052,7 +1052,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 823,
+      "2025-12-17": 897,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1436,7 +1436,7 @@
     "timeMonth": 262,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-12-17": 823,
+      "2025-12-17": 897,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1820,7 +1820,7 @@
     "timeMonth": 331,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-17": 823,
+      "2025-12-17": 897,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,

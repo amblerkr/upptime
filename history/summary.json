@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.ambler.kr.ico",
     "slug": "chatwoot-ambler-kr",
     "status": "down",
-    "uptime": "25.81%",
+    "uptime": "25.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -128,7 +128,7 @@
     "timeMonth": 205,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-17": 928,
+      "2025-12-17": 1062,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -588,16 +588,16 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "80.84%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "99.38%",
-    "time": 3222,
+    "uptimeDay": "80.81%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.39%",
+    "time": 3224,
     "timeDay": 2302,
     "timeWeek": 4386,
-    "timeMonth": 3821,
+    "timeMonth": 3849,
     "timeYear": 3453,
     "dailyMinutesDown": {
       "2025-12-17": 261,
@@ -647,8 +647,7 @@
       "2025-10-19": 21,
       "2025-10-18": 46,
       "2025-10-16": 34,
-      "2025-10-15": 36,
-      "2025-10-14": 22
+      "2025-10-15": 36
     }
   },
   {
@@ -657,7 +656,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "52.54%",
+    "uptime": "52.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -668,7 +667,7 @@
     "timeMonth": 692,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-12-17": 928,
+      "2025-12-17": 1063,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1052,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 928,
+      "2025-12-17": 1063,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1436,7 +1435,7 @@
     "timeMonth": 262,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-12-17": 928,
+      "2025-12-17": 1063,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1820,7 +1819,7 @@
     "timeMonth": 331,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-17": 928,
+      "2025-12-17": 1063,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,

@@ -130,7 +130,7 @@
     "timeMonth": 203,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-22": 351,
+      "2025-12-22": 481,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -592,13 +592,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "93.68%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "93.67%",
     "uptimeMonth": "95.19%",
-    "uptimeYear": "99.35%",
-    "time": 3329,
+    "uptimeYear": "99.36%",
+    "time": 3332,
     "timeDay": 1014,
     "timeWeek": 4730,
     "timeMonth": 4098,
@@ -651,7 +651,7 @@
       "2025-10-24": 49,
       "2025-10-23": 25,
       "2025-10-22": 17,
-      "2025-10-21": 46
+      "2025-10-21": 19
     }
   },
   {
@@ -671,7 +671,7 @@
     "timeMonth": 683,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-12-22": 352,
+      "2025-12-22": 481,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-22": 352,
+      "2025-12-22": 481,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -1439,7 +1439,7 @@
     "timeMonth": 268,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-12-22": 352,
+      "2025-12-22": 481,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -1812,7 +1812,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluv.ambler.kr.ico",
     "slug": "bluv-ambler-kr",
     "status": "down",
-    "uptime": "27.82%",
+    "uptime": "27.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1823,7 +1823,7 @@
     "timeMonth": 327,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-22": 352,
+      "2025-12-22": 481,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,

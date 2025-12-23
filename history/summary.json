@@ -130,7 +130,7 @@
     "timeMonth": 199,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-23": 777,
+      "2025-12-23": 1218,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -592,13 +592,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.80%",
+    "uptimeDay": "95.77%",
     "uptimeWeek": "92.99%",
     "uptimeMonth": "95.22%",
     "uptimeYear": "99.34%",
-    "time": 3337,
+    "time": 3339,
     "timeDay": 1855,
     "timeWeek": 4550,
     "timeMonth": 4109,
@@ -650,8 +650,7 @@
       "2025-10-26": 42,
       "2025-10-25": 115,
       "2025-10-24": 49,
-      "2025-10-23": 25,
-      "2025-10-22": 17
+      "2025-10-23": 25
     }
   },
   {
@@ -660,7 +659,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "52.35%",
+    "uptime": "52.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -671,7 +670,7 @@
     "timeMonth": 669,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-12-23": 778,
+      "2025-12-23": 1218,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1044,7 +1043,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "37.34%",
+    "uptime": "37.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1055,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 778,
+      "2025-12-23": 1218,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1428,7 +1427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "59.16%",
+    "uptime": "59.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1439,7 +1438,7 @@
     "timeMonth": 266,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-12-23": 778,
+      "2025-12-23": 1218,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1823,7 +1822,7 @@
     "timeMonth": 319,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-23": 778,
+      "2025-12-23": 1218,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,

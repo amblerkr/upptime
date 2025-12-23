@@ -130,7 +130,7 @@
     "timeMonth": 199,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-12-23": 57,
+      "2025-12-23": 460,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -592,18 +592,19 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.30%",
+    "uptimeDay": "95.77%",
     "uptimeWeek": "93.59%",
-    "uptimeMonth": "95.13%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "99.35%",
-    "time": 3335,
-    "timeDay": 1901,
+    "time": 3337,
+    "timeDay": 2661,
     "timeWeek": 4786,
-    "timeMonth": 4140,
+    "timeMonth": 4155,
     "timeYear": 3509,
     "dailyMinutesDown": {
+      "2025-12-23": 0,
       "2025-12-22": 111,
       "2025-12-20": 88,
       "2025-12-19": 17,
@@ -650,8 +651,7 @@
       "2025-10-25": 115,
       "2025-10-24": 49,
       "2025-10-23": 25,
-      "2025-10-22": 17,
-      "2025-10-21": 19
+      "2025-10-22": 17
     }
   },
   {
@@ -660,7 +660,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "52.36%",
+    "uptime": "52.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -671,7 +671,7 @@
     "timeMonth": 669,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-12-23": 57,
+      "2025-12-23": 460,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 57,
+      "2025-12-23": 460,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1428,7 +1428,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "59.17%",
+    "uptime": "59.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1439,7 +1439,7 @@
     "timeMonth": 266,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-12-23": 57,
+      "2025-12-23": 460,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1823,7 +1823,7 @@
     "timeMonth": 319,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-23": 58,
+      "2025-12-23": 461,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,

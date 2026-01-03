@@ -130,7 +130,7 @@
     "timeMonth": 245,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-01-03": 834,
+      "2026-01-03": 882,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -592,13 +592,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.01%",
+    "uptimeDay": "95.99%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "95.43%",
     "uptimeYear": "99.36%",
-    "time": 3260,
+    "time": 3263,
     "timeDay": 2304,
     "timeWeek": 3732,
     "timeMonth": 3949,
@@ -650,7 +650,7 @@
       "2025-11-12": 49,
       "2025-11-11": 61,
       "2025-11-10": 34,
-      "2025-11-09": 72
+      "2025-11-09": 54
     }
   },
   {
@@ -670,7 +670,7 @@
     "timeMonth": 694,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-01-03": 834,
+      "2026-01-03": 883,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -1054,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 835,
+      "2026-01-03": 883,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -1427,7 +1427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "58.76%",
+    "uptime": "58.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1438,7 +1438,7 @@
     "timeMonth": 261,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2026-01-03": 835,
+      "2026-01-03": 883,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -1822,7 +1822,7 @@
     "timeMonth": 304,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-01-03": 835,
+      "2026-01-03": 883,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,

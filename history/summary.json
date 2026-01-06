@@ -130,7 +130,7 @@
     "timeMonth": 242,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-01-06": 895,
+      "2026-01-06": 951,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -592,13 +592,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "84.52%",
+    "uptimeDay": "84.49%",
     "uptimeWeek": "94.66%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.32%",
-    "time": 3317,
+    "time": 3319,
     "timeDay": 1403,
     "timeWeek": 3721,
     "timeMonth": 4007,
@@ -649,7 +649,7 @@
       "2025-11-17": 216,
       "2025-11-16": 74,
       "2025-11-15": 53,
-      "2025-11-13": 31
+      "2025-11-13": 16
     }
   },
   {
@@ -669,7 +669,7 @@
     "timeMonth": 696,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-01-06": 896,
+      "2026-01-06": 951,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1053,7 +1053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-06": 896,
+      "2026-01-06": 951,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1426,7 +1426,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "58.65%",
+    "uptime": "58.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1437,7 +1437,7 @@
     "timeMonth": 275,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-01-06": 896,
+      "2026-01-06": 951,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1821,7 +1821,7 @@
     "timeMonth": 147,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-01-06": 896,
+      "2026-01-06": 951,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,

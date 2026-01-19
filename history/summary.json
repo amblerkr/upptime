@@ -131,7 +131,7 @@
     "timeMonth": 236,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-01-19": 615,
+      "2026-01-19": 844,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -594,15 +594,15 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "97.40%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "97.39%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "99.25%",
-    "time": 3409,
+    "time": 3411,
     "timeDay": 6960,
-    "timeWeek": 3140,
+    "timeWeek": 3324,
     "timeMonth": 3780,
     "timeYear": 3565,
     "dailyMinutesDown": {
@@ -658,7 +658,7 @@
       "2025-11-23": 148,
       "2025-11-22": 33,
       "2025-11-18": 28,
-      "2025-11-17": 42
+      "2025-11-17": 16
     }
   },
   {
@@ -678,7 +678,7 @@
     "timeMonth": 710,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2026-01-19": 615,
+      "2026-01-19": 845,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -1051,7 +1051,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "36.72%",
+    "uptime": "36.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1062,7 +1062,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-19": 615,
+      "2026-01-19": 845,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -1435,7 +1435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.kr.ico",
     "slug": "monitorss-ambler-kr",
     "status": "down",
-    "uptime": "58.19%",
+    "uptime": "58.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1446,7 +1446,7 @@
     "timeMonth": 292,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-01-19": 615,
+      "2026-01-19": 845,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -1830,7 +1830,7 @@
     "timeMonth": 131,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-01-19": 616,
+      "2026-01-19": 845,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,

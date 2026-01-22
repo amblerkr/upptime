@@ -131,7 +131,7 @@
     "timeMonth": 239,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-01-22": 622,
+      "2026-01-22": 837,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -594,13 +594,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "97.84%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "95.72%",
-    "uptimeYear": "99.24%",
-    "time": 3458,
+    "uptimeYear": "99.26%",
+    "time": 3461,
     "timeDay": 6576,
     "timeWeek": 4868,
     "timeMonth": 3782,
@@ -658,7 +658,7 @@
       "2025-11-27": 58,
       "2025-11-26": 126,
       "2025-11-24": 73,
-      "2025-11-23": 148
+      "2025-11-23": 50
     }
   },
   {
@@ -667,7 +667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "51.40%",
+    "uptime": "51.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -678,7 +678,7 @@
     "timeMonth": 713,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2026-01-22": 623,
+      "2026-01-22": 837,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1062,7 +1062,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 623,
+      "2026-01-22": 837,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1446,7 +1446,7 @@
     "timeMonth": 289,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-01-22": 623,
+      "2026-01-22": 838,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1830,7 +1830,7 @@
     "timeMonth": 135,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-01-22": 623,
+      "2026-01-22": 838,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,

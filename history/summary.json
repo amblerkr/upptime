@@ -131,7 +131,7 @@
     "timeMonth": 251,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-01-29": 946,
+      "2026-01-29": 1029,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
@@ -594,13 +594,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "90.51%",
-    "uptimeWeek": "94.53%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "94.71%",
     "uptimeMonth": "95.38%",
-    "uptimeYear": "99.25%",
-    "time": 3391,
+    "uptimeYear": "99.26%",
+    "time": 3393,
     "timeDay": 3610,
     "timeWeek": 5801,
     "timeMonth": 4426,
@@ -655,8 +655,7 @@
       "2025-12-07": 68,
       "2025-12-06": 71,
       "2025-12-05": 17,
-      "2025-12-04": 187,
-      "2025-12-03": 33
+      "2025-12-04": 187
     }
   },
   {
@@ -676,7 +675,7 @@
     "timeMonth": 741,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2026-01-29": 947,
+      "2026-01-29": 1029,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
@@ -1049,7 +1048,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "36.49%",
+    "uptime": "36.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1060,7 +1059,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-29": 947,
+      "2026-01-29": 1029,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
@@ -1444,7 +1443,7 @@
     "timeMonth": 291,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2026-01-29": 947,
+      "2026-01-29": 1029,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
@@ -1828,7 +1827,7 @@
     "timeMonth": 132,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-01-29": 947,
+      "2026-01-29": 1029,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,

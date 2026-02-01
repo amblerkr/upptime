@@ -131,7 +131,7 @@
     "timeMonth": 224,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-02-01": 1032,
+      "2026-02-01": 1183,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -594,15 +594,15 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "85.45%",
+    "uptimeDay": "85.43%",
     "uptimeWeek": "93.31%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "99.23%",
-    "time": 3406,
+    "time": 3408,
     "timeDay": 482,
-    "timeWeek": 5009,
+    "timeWeek": 4108,
     "timeMonth": 4046,
     "timeYear": 3634,
     "dailyMinutesDown": {
@@ -656,8 +656,7 @@
       "2025-12-09": 128,
       "2025-12-08": 86,
       "2025-12-07": 68,
-      "2025-12-06": 71,
-      "2025-12-05": 17
+      "2025-12-06": 71
     }
   },
   {
@@ -677,7 +676,7 @@
     "timeMonth": 713,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2026-02-01": 1033,
+      "2026-02-01": 1184,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1050,7 +1049,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktokrss.ambler.kr.ico",
     "slug": "tiktokrss-ambler-kr",
     "status": "down",
-    "uptime": "36.42%",
+    "uptime": "36.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1061,7 +1060,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-01": 1033,
+      "2026-02-01": 1184,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1445,7 +1444,7 @@
     "timeMonth": 298,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-02-01": 1033,
+      "2026-02-01": 1184,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1829,7 +1828,7 @@
     "timeMonth": 128,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-02-01": 1033,
+      "2026-02-01": 1184,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,

@@ -130,7 +130,7 @@
     "timeMonth": 193,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-02-27": 705,
+      "2026-02-27": 867,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -593,13 +593,13 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.27%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "94.81%",
     "uptimeMonth": "94.31%",
-    "uptimeYear": "99.09%",
-    "time": 3562,
+    "uptimeYear": "99.10%",
+    "time": 3553,
     "timeDay": 1683,
     "timeWeek": 3799,
     "timeMonth": 3301,
@@ -655,8 +655,7 @@
       "2025-12-27": 33,
       "2025-12-26": 180,
       "2025-12-25": 47,
-      "2025-12-24": 44,
-      "2025-12-23": 21
+      "2025-12-24": 44
     }
   },
   {
@@ -665,7 +664,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "50.30%",
+    "uptime": "50.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -676,7 +675,7 @@
     "timeMonth": 722,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2026-02-27": 705,
+      "2026-02-27": 867,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1060,7 +1059,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 705,
+      "2026-02-27": 867,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1444,7 +1443,7 @@
     "timeMonth": 264,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2026-02-27": 705,
+      "2026-02-27": 867,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1828,7 +1827,7 @@
     "timeMonth": 103,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2026-02-27": 705,
+      "2026-02-27": 867,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,

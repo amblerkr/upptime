@@ -130,7 +130,7 @@
     "timeMonth": 192,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-03-07": 933,
+      "2026-03-07": 981,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -593,17 +593,17 @@
     "url": "https://rssbridge.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.kr.ico",
     "slug": "rssbridge-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "97.64%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "95.62%",
-    "uptimeYear": "99.02%",
-    "time": 3429,
-    "timeDay": 4741,
-    "timeWeek": 2781,
-    "timeMonth": 3779,
-    "timeYear": 3650,
+    "uptimeYear": "99.04%",
+    "time": 3434,
+    "timeDay": 5360,
+    "timeWeek": 3077,
+    "timeMonth": 3830,
+    "timeYear": 3653,
     "dailyMinutesDown": {
       "2026-03-07": 34,
       "2026-03-05": 383,
@@ -657,7 +657,7 @@
       "2025-12-29": 23,
       "2025-12-28": 58,
       "2025-12-27": 33,
-      "2025-12-26": 180
+      "2025-12-26": 88
     }
   },
   {
@@ -666,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.kr.ico",
     "slug": "reddit-rss-ambler-kr",
     "status": "down",
-    "uptime": "50.06%",
+    "uptime": "50.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -677,7 +677,7 @@
     "timeMonth": 799,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2026-03-07": 934,
+      "2026-03-07": 982,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1061,7 +1061,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 934,
+      "2026-03-07": 982,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1445,7 +1445,7 @@
     "timeMonth": 271,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-03-07": 934,
+      "2026-03-07": 982,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1829,7 +1829,7 @@
     "timeMonth": 135,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-03-07": 934,
+      "2026-03-07": 982,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
